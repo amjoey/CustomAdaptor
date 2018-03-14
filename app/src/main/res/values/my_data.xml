@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="products">
+        <item>Remote Gate ประตูรีโมท</item>
+        <item>Power Backup</item>
+        <item>Water Filter</item>
+        <item>RF Board</item>
+        <item>Air Filter เครื่องกรองอากาศ</item>
+    </string-array>
+</resources>

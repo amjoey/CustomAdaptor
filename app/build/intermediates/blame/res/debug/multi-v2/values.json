@@ -1,0 +1,59 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\code\\3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\code\\3\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "449,532",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "527,599"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\code\\3\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "301,348,398",
+                        "endColumns": "46,49,50",
+                        "endOffsets": "343,393,444"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\code\\3\\app\\src\\main\\res\\values\\my_data.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "19",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "19",
+                        "endOffsets": "296"
+                    }
+                }
+            ]
+        }
+    ]
+}
